@@ -44,7 +44,6 @@ This project is a C++ implementation of a Sudoku solver using the backtracking a
     . 6 . . . . 2 8 .
     . . . 4 1 9 . . 5
     . . . . 8 . . 7 9
-   '''
 
 
 5. **The program will output the solved Sudoku grid or indicate if no solution exists.**
