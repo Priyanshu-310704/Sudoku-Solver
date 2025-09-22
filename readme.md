@@ -34,6 +34,7 @@ This project is a C++ implementation of a Sudoku solver using the backtracking a
 4. **Input Format**:
 
    Enter the Sudoku puzzle as a 9x9 grid, using . for empty cells. For example:
+   ```
     5 3 . . 7 . . . .
     6 . . 1 9 5 . . .
     . 9 8 . . . . 6 .
@@ -43,11 +44,13 @@ This project is a C++ implementation of a Sudoku solver using the backtracking a
     . 6 . . . . 2 8 .
     . . . 4 1 9 . . 5
     . . . . 8 . . 7 9
+   '''
 
 
 The program will output the solved Sudoku grid or indicate if no solution exists.
 
 ##🎨 Sample Output
+```
 5 3 4 | 6 7 8 | 9 1 2
 6 7 2 | 1 9 5 | 3 4 8
 1 9 8 | 3 4 2 | 5 6 7
